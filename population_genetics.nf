@@ -1,1 +1,0 @@
-../payton3/main.nf
